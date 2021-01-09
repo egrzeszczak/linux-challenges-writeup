@@ -1,4 +1,21 @@
-# Linux Challenges Write-up
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/linux/linux-original.svg" width=128 height=128></br>
+<h1 align="center"><a href="https://tryhackme.com/room/linuxctf">Linux Challenges Write-up</a></h1>
+</p>
+
+
+> This rooms purpose is to learn or improve your Linux skills.
+> There will be challenges that will involve you using the following commands and techniques:
+>-    Using commands such as: ls, grep, cd, tail, head, curl, strings, tmux, find, locate, diff, tar, xxd
+>-    Understanding cronjobs, MOTD's and system mounts
+>-    SSH'ing to other users accounts using a password and private key
+>-    Locating files on the system hidden in different directories
+>-    Encoding methods (base64, hex)
+>-    MySQL database interaction
+>-    Using SCP to download a file
+>-    Understanding Linux system paths and system variables
+>-    Understanding file permissions
+>-    Using RDP for a GUI
 
 # Task 2 The Basics
 
@@ -651,6 +668,8 @@ bob@ip-10-10-55-77:/home$ cat /etc/flag36
 *:)*
 ```
 
+---
+##### by egrzeszczak
 
 
 
